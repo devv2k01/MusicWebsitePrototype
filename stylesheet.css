@@ -1,0 +1,45 @@
+		<div id="header">
+			<ul>
+        <li class="dropdown">
+          <a href="webpage.html">Home</a>
+				<li class="dropdown">
+    			<a>EDMs</a>
+    				<div class="dropdown-content">
+      					<a href="HW.html">Hardwell</a>
+					    <a href="DJS.html">DJ Snake</a>
+      					<a href="aw.html">Alan Walker</a>
+    				</div>
+  				</li>
+        <li class="dropdown">
+          <a>Alternative rock</a>
+            <div class="dropdown-content">
+              <a href="LP.html">Linkin Park</a>
+                <a href="tws.html">The white strips</a>
+            </div>
+          </li>
+        <li class="dropdown">
+          <a>Dubstep</a>
+            <div class="dropdown-content">
+                <a href="sa.html">Steve Aoki</a>
+              <a href="bj.html">Blaster jaxx</a>
+                <a href="hw.html">Hardwell</a>
+            </div>
+          </li>
+        <li class="dropdown">
+          <a>Romantic</a>
+            <div class="dropdown-content">
+                <a href="jb.html">Justin bieber</a>
+              <a href="job.html">Joans Blue</a>
+                <a href="cp.html">Charlie Puth</a>
+            </div>
+        <li class="dropdown">
+          <a>pop</a>
+            <div class="dropdown-content">
+                <a href="avicii.html">Avicii</a>
+              <a href="dg.html">David guetta</a>
+              <a href="m.html">Marshmello</a>
+
+            </div>
+          </li>
+			</ul>
+		</div>
